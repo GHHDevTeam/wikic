@@ -1,0 +1,41 @@
+.raty {
+	float: left;
+	width: 150px;
+}
+
+#raty-table td {
+	vertical-align: middle;
+}
+
+p.star-after {
+	margin: 10px 0px 10px 0px;
+	padding: 3px 0 0 0;
+}
+
+.mater {
+	border: 1px solid #B5B6B6;
+    overflow: hidden;
+    background: #E9E9E9;
+    height: 17px;
+    width: 150px;
+    margin: 0;
+}
+
+.meter-bar {
+	background: #ffba00;
+	background-color: #ffce00;
+	height: 17px;
+    border-right: 1px solid #B5B6B6;
+	margin: 0 0 0 -1px;
+}
+
+.raty-graf-comment {
+	margin: 0px 5px 0px 0px;
+	line-height: 130%;
+}
+
+.raty-graf-count {
+	margin: 0px 0px 0px 5px;
+	line-height: 130%;
+}
+

@@ -1,0 +1,23 @@
+#author("2021-06-19T10:41:48+09:00","","")
+**&size(20){メニュー}; [#menu]
+-[[トップ>WikiC]]
+
+**&size(20){Wiki紹介}; [#wikis]
+-[[&color(#FF8866){%%%AmongUs Wiki%%%};>https://wikic.ga/amongus/]]
+-[[&color(#FF8866){%%%コミュニティ%%%};>https://wikic.ga/rk/]]
+
+**&size(20){お初の方へ}; [#first]
+-[[&color(#FF8866){%%%サンプルWiki%%%};>https://wikic.ga/SampleWiki/]]
+-[[&color(#66DDFF){%%%お試しWiki%%%};>https://wikic.ga/TrialWiki/]]
+-[[&color(#FF3333){%%%規約と方針%%%};>policy_and_terms]]
+
+**&size(20){その他}; [#other]
+-[[旧WikiCホーム>https://wikic.ga/old_index.php]]
+-[[WikiC変更履歴>https://wikic.ga/SampleWiki/?WikiC%E5%A4%89%E6%9B%B4%E5%B1%A5%E6%AD%B4]]
+-[[プラグイン一覧＆アーカイブ>https://wikic.ga/53616c7465645f5f8c6849d9c0db6431dc15c7fc809030a35a3fec80ffdb4ee0/plg/]]
+-[[WikiC管理人のWebサイト>https://pkom.ml/]]
+***&size(15){カウンター}; [#count]
+総計:&color(red){&counter(total);};
+今日:&color(red){&counter(today);};
+昨日:&color(red){&counter(yesterday);};
+現在:&color(green){&online;};

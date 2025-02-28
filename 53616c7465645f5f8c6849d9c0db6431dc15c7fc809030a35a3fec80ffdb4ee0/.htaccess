@@ -1,0 +1,9 @@
+<FilesMatch "\.(ini\.php|lng\.php|txt|gz|tgz|zip)$">
+  Require all denied
+</FilesMatch>
+<Files ~ "account.txt">
+  deny from all 
+</Files>
+<Files ~ "account2.txt">
+  deny from all 
+</Files>

@@ -1,0 +1,3 @@
+<FilesMatch "\.(ini\.php|lng\.php|txt|gz|tgz|zip)$">
+  Require all denied
+</FilesMatch>
